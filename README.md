@@ -22,8 +22,8 @@ VRAM needed to run the model is around 8.1 GB on MLX, 4.5 on CUDA GPU and 8.5GB 
 ### Setup
 
 ```bash
-git clone git@github.com:SesameAILabs/csm.git
-cd csm
+git clone https://github.com/2994dd42d75b0/sesame-csm.git
+cd sesame-csm
 python3.12 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
